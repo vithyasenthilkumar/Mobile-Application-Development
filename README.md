@@ -114,6 +114,8 @@ Activity_main.xml:-
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT:
+<img width="212" alt="Mad Output" src="https://github.com/suryacse05/Mobile-Application-Development/assets/127177445/17ebd3a6-af03-4858-aa0b-0c639ab30d26">
+
 ![GITHUB](Mad Output.png)
 
 ## RESULT:

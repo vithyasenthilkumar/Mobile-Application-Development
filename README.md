@@ -114,7 +114,7 @@ Activity_main.xml:-
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## OUTPUT:
-r
+![GITHUB](Mad Output.png)
 
 ## RESULT:
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
